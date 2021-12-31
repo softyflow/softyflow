@@ -2,9 +2,6 @@
   <a href="https://softyflow.io/">
     <img src="https://softyflow.io/wp-content/uploads/2021/01/Transparent.svg" width="318px" alt="Softyflow logo" />
   </a>
-  <a href="https://softyflow.io/">
-    <img src="https://softyflow.io/wp-content/uploads/2021/01/Transparent.svg" width="318px" alt="Softyflow logo" />
-  </a>
 </p>
 
 <h3 align="center">Softyflow, la réponse à toutes vos initiatives digitales</h3>
